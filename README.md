@@ -107,6 +107,7 @@ Open a browser and navigate to:
 Below is a simple diagram representing the connection between VMs:
 
 
+![ArchitectureDiagram](https://github.com/user-attachments/assets/1b0bdb45-ad77-49cb-aa79-d4e103f1c2cd)
 
 ---
 
